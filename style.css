@@ -10,7 +10,9 @@
 }
 
 body {
-  margin: 15%;
+  min-height: 100vh;
+  /* margin: 15%; */
+  align-items: center;
   padding: auto;
   display: flex;
   justify-content: center;

@@ -18,13 +18,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+This is a simple website with a QR code that directs a person to front end mentor's website. Website was created to have certain viewing characteristics on both mobile and desktop browsers.
+
 ### Screenshot
 
 ![ScreenShot](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [FrontEndMentor__QRcode__sourcefiles](https://github.com/johnGarcia2/FEM--QR__code)
 - Live Site URL: [FrontEndMentor__QRcode](https://johngarcia2.github.io/FEM--QR__code/)
 
 ## My process
